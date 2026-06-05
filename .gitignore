@@ -1,0 +1,17 @@
+# === 密钥 ===
+.env
+
+# ======
+.DS_Store
+
+
+
+# === Python ===
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# === notebook 运行产物（含具体公司分析，不进仓库）===
+output_*.md
+process_*.md
